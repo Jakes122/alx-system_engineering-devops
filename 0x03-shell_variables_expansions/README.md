@@ -1,1 +1,1 @@
-alias readme
+myreadme
